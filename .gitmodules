@@ -1,0 +1,6 @@
+[submodule "themes/sam"]
+	path = themes/sam
+	url = https://github.com/hivickylai/hugo-theme-sam.git
+[submodule "public"]
+	path = public
+	url = git@github.com:less-is-mohr/less-is-mohr.github.io.git

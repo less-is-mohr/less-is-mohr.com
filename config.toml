@@ -1,0 +1,20 @@
+baseURL = "http://less-is-mohr.com"
+languageCode = "en-us"
+title = "less is mohr"
+theme = "sam"
+
+[[params.mainMenu]]
+    link = "/min"
+    text = "minimalistic"
+
+[[params.mainMenu]]
+    link = "/devops"
+    text = "devops consulting"
+
+[[params.mainMenu]]
+    link = "/sw"
+    text = "and beautiful software"
+
+[[params.mainMenu]]
+    link = "/about"
+    text = "by daniel mohr"
